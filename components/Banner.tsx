@@ -29,7 +29,7 @@ function Banner({ netflixOriginals }: Props,
          layout="fill"
       
           objectFit="cover"
-          
+       
         />
     
 
